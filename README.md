@@ -1,5 +1,5 @@
 # Blinds-Engine
-A basic 2d game engine written in C/C++ and OpenGL 2.5 (GLUT) supporting the following features:
+A basic 2d game engine written in C/C++ and OpenGL Utility Toolkit (GLUT) supporting the following features:
 * Flat textures
 * UI and inventory
 * Keyboard control and sprite movement
