@@ -1,0 +1,13 @@
+4
+0
+Axe
+1
+1
+Sword
+1
+2
+MedKit
+3
+3
+Torch
+1

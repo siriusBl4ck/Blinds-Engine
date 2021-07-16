@@ -1,0 +1,9 @@
+#Events[2]
+eventCode[0]
+spriteColor[0,1,0]
+spriteDraw[(-1,-1)(-1,0)(0,0)(0,-1)]
+onBreach : 0.01
+eventCode[0]
+spriteColor[1,0,0]
+spriteDraw[(0,0)(1,0)(1,1)(0,1)]
+onBreach : -0.01

@@ -1,0 +1,8 @@
+#eventCode[1]
+spriteColor[0,1,0]
+spriteDraw[(-1,-1)(-1,0)(0,0)(0,-1)]
+loop
+{
+onCollision[modify(health, -2)]
+}
+

@@ -1,0 +1,5 @@
+Movement Speed : 0.02
+Friction : 0.1
+Gravity : 0
+Jump acceleration : 0.04
+Jump cooldown : 1000
