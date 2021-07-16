@@ -1,6 +1,6 @@
 /*
  * Blinds Game Engine Version 1.1
- * by fiery_inside (Saurav Kale)  (C) 2020
+ * by siriusBl4ck (Saurav Kale)  (C) 2020
  */
 
 #define _CRT_SECURE_NO_WARNINGS
